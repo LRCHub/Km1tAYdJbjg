@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Back to the City",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-03-10T12:30:25.328689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/01_Back_to_the_City_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/02_Back_to_the_City_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "Sylvan LaCue",
+      "has_synced": true,
+      "path": "select/03_Back_to_the_City_Sylvan_LaCue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "The Guess Who",
+      "has_synced": false,
+      "path": "select/04_Back_to_the_City_The_Guess_Who.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "3 Colours Red",
+      "has_synced": false,
+      "path": "select/05_Back_to_the_City_3_Colours_Red.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "Guess Who, The",
+      "has_synced": false,
+      "path": "select/06_Back_to_the_City_Guess_Who,_The.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Back To The City",
+      "artist": "Vargas Blues Band",
+      "has_synced": false,
+      "path": "select/07_Back_To_The_City_Vargas_Blues_Band.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back to the City - Remastered",
+      "artist": "The Guess Who",
+      "has_synced": false,
+      "path": "select/08_Back_to_the_City_-_Remastered_The_Guess_Who.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back To The City",
+      "artist": "Keel",
+      "has_synced": true,
+      "path": "select/09_Back_To_The_City_Keel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back To The City",
+      "artist": "The Guess Who",
+      "has_synced": true,
+      "path": "select/10_Back_To_The_City_The_Guess_Who.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back To The City Again",
+      "artist": "Jean-Jacques Goldman",
+      "has_synced": true,
+      "path": "select/11_Back_To_The_City_Again_Jean-Jacques_Goldman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back to the City",
+      "artist": "Gringo Star",
+      "has_synced": true,
+      "path": "select/12_Back_to_the_City_Gringo_Star.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "04 - Back to the city",
+      "artist": "Vargas Blues Band",
+      "has_synced": false,
+      "path": "select/13_04_-_Back_to_the_city_Vargas_Blues_Band.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back to the City",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_Back_to_the_City_Kep1er.txt"
+    }
+  ]
+}
