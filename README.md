@@ -1,0 +1,94 @@
+# Kep1er – Back to the City
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.37] Take me back, back to the city, city
+[00:04.06] Back, back to the city (oh-oh-oh)
+[00:08.16] (Oh-oh-oh) yeah, oh, woo!
+[00:20.66] 
+[00:11.33] Hey you, do you remember?
+[00:13.75] 한 밤의 hangout, 밤새 빛나던
+[00:16.34] 옹기종기 모여 얘길 나눠볼까?
+[00:19.10] Oh-oh-oh-oh, oh-oh-oh
+[00:29.60] 
+[00:22.06] And that night, 반했던 city (oh, yeah)
+[00:24.57] 설렘 가득한 (ha), 꿈같던 순간 (yo)
+[00:27.61] 그 때로 돌아가, we keep on dreaming, dreaming
+[00:29.98] It's so fun, so fun
+[00:39.48] 
+[00:32.75] 우리로 가득했던 곳
+[00:35.11] 함께여서, never afraid
+[00:37.64] Oh, my gosh
+[00:38.61] Was the best time I ever had, oh-whoa
+[00:57.11] 
+[00:42.87] 오늘도 오로라, 오로라 빛 (오로라, 오로라 빛)
+[00:45.89] 그곳이 우리를 부르니, yeah
+[00:48.59] 다 함께 또 놀러 가
+[00:50.59] 꼭 네 손을 잡고서
+[00:55.59] 
+[00:54.32] All night 춤추는 도시 위로
+[00:57.13] Moonlight, 비추는 맘이 shine
+[01:00.08] Oh-oh-oh-oh, back, back to the city
+[01:02.35] Oh-oh-oh-oh, back to the city
+[01:16.85] 
+[01:04.94] All day 빛나는, 우린 서로
+[01:08.01] Daylight, 따스히 지켜 줘
+[01:10.69] Oh-oh-oh-oh, let's go back into the city
+[01:13.52] Oh-oh-oh-oh, back to the city
+[01:28.02] 
+[01:16.08] 정신 없이 즐겨 봐 맘이 가는 대로 다
+[01:18.45] 언제라도, that's okay, 신나는 party
+[01:21.12] 초 꽂은 cake 후 불고 wish 눈 감고
+[01:23.81] 간절하게 그렸던 꿈, 난 빌어
+[01:31.81] 
+[01:26.52] Yes, we were feeling so high, feeling so high
+[01:29.29] 기억을 되돌리는, oh, beautiful stars
+[01:32.07] 다 함께 또 놀러 가
+[01:34.45] 꼭 네 손을 잡고서
+[01:39.45] 
+[01:37.64] All night 춤추는 도시 위로
+[01:40.71] Moonlight, 비추는 맘이 shine
+[01:43.35] Oh-oh-oh-oh-oh, back, back to the city
+[01:45.80] Oh-oh-oh-oh-oh, back to the city
+[02:01.80] 
+[01:48.78] All day 빛나는, 우린 서로
+[01:51.46] Daylight, 따스히 지켜 줘
+[01:54.08] Oh-oh-oh-oh-oh, let's go back into the city
+[01:56.84] Oh-oh-oh-oh-oh, back to the city
+[02:12.84] 
+[01:59.48] (Take me back) take me back, back to the city
+[02:02.02] (Take me back) take me back, back to the city
+[02:04.95] (Take me back before the nineteen) take me back before the nineteen
+[02:08.36] Back to the city
+[02:16.36] 
+[02:10.31] 눈을 감아 봐
+[02:12.65] 별자리 같던, oh, 그 도시
+[02:15.35] 난 마치 어제처럼 선명해져
+[02:18.03] (선명해져)
+[02:21.03] 
+[02:20.38] 나 무너질 때 언제라도
+[02:23.04] 일으켜준 소중한 기억
+[02:25.69] Baby, let's get started, keep trying
+[02:29.12] Let us be, 기억해 우리
+[02:37.62] 
+[02:33.35] (Hey, you) all night 춤추는 도시 위로
+[02:36.28] (Oh) moonlight, 비추는 맘이 shine
+[02:38.76] Oh-oh-oh-oh-oh, back, back to the city (to the city)
+[02:41.43] Oh-oh-oh-oh-oh, back to the city
+[02:57.43] 
+[02:44.03] All day 빛나는, 우린 서로
+[02:46.78] Daylight, 따스히 지켜 줘 (지켜 줘)
+[02:49.75] Oh-oh-oh-oh-oh, let's go back into the city
+[02:52.35] Oh-oh-oh-oh-oh, back to the city (baby, yeah, oh)
+[03:16.85] 
+[02:55.27] Take me back, back to the city
+[02:57.62] Take me back, back to the city (to the city)
+[03:00.91] Take me into the city (come on)
+[03:03.01] Back to the city
+[03:11.01] 
+[03:05.84] Take me back, back to the city (to the nineteen)
+[03:08.66] Take me back, back to the city
+[03:11.22] Take me into the city (before the nineteen)
+[03:14.12] Oh-oh-oh-oh-oh, back to the city
+```
